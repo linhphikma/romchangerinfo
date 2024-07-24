@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1230764400,
+      "datetime": 1721921550,
       "filename": "ota-package.zip",
       "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
-      "romtype": "nightly",
+      "romtype": "UNOFFICIAL",
       "size": 314572800,
       "url": "https://example.com/ota-package.zip",
-      "version": "15.1"
+      "version": "16.0"
     }
   ]
 }
