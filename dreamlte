@@ -1,9 +1,9 @@
 {
   "response": [
     {
-      "datetime": 1721839468,
+      "datetime": 1721849468,
       "filename": "Magisk-v25.2.zip",
-      "id": "ddb2cefab2e50c6b8fd9edbdf29db6483ebf6a8c",
+      "id": "ddb2cefab2e50c6b8fd9edbdf29db6493ebf6a8c",
       "romtype": "UNOFFICIAL",
       "size": 11278270,
       "url": "https://github.com/linhphikma/romchangerinfo/raw/main/Magisk-v25.2.zip",
