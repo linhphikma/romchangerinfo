@@ -1,13 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1723120070,
-      "filename": "update-test.zip",
-      "id": "adc83b19e79349ab1c6ea0fd846cd9f32e593fc",
+      "datetime": 1722491290,
+      "filename": "update-otatest.zip",
+      "id": "42186cb71f7dbe10ccec6cadb2baf7dc6b3dba30",
       "romtype": "RELEASE",
-      "size": 11278270,
-      "url": "https://github.com/linhphikma/romchangerinfo/raw/main/update-test.zip",
+      "size": 125628,
+      "url": "https://github.com/linhphikma/romchangerinfo/raw/main/update-otatest.zip",
       "version": "16.0"
     }
   ]
 }
+
+
