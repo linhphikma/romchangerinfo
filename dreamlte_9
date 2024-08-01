@@ -2,11 +2,11 @@
   "response": [
     {
       "datetime": 1723120070,
-      "filename": "Magisk-v25.2.zip",
+      "filename": "update-test.zip",
       "id": "adc83b19e79349ab1c6ea0fd846cd9f32e593fc",
       "romtype": "RELEASE",
       "size": 11278270,
-      "url": "https://github.com/linhphikma/romchangerinfo/raw/main/Magisk-v25.2.zip",
+      "url": "https://github.com/linhphikma/romchangerinfo/raw/main/update-test.zip",
       "version": "16.0"
     }
   ]
