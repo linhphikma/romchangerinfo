@@ -812,13 +812,6 @@
     "imei_tac": "86230820"
   },
   {
-    "phone_name": "Oppo F15",
-    "model": "F15",
-    "codename": "f15",
-    "fingerprint": "oppo/f15/f15:10/QKQ1.200825.002/roll:release-keys",
-    "imei_tac": "86230821"
-  },
-  {
     "phone_name": "Oppo F19 Pro",
     "model": "F19 Pro",
     "codename": "f19pro",
