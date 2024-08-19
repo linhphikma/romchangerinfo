@@ -1,5 +1,96 @@
 [
   {
+    "phone_name": "Galaxy A73 5G",
+    "model": "A736B",
+    "codename": "a73",
+    "fingerprint": "samsung/a73/a73:13/XYZ123/ABC456:user/release-keys",
+    "imei_tac": "35674310"
+  },
+  {
+    "phone_name": "Galaxy A53 5G",
+    "model": "A536B",
+    "codename": "a53",
+    "fingerprint": "samsung/a53/a53:13/XYZ789/DEF123:user/release-keys",
+    "imei_tac": "35783420"
+  },
+  {
+    "phone_name": "Galaxy A33 5G",
+    "model": "A336B",
+    "codename": "a33",
+    "fingerprint": "samsung/a33/a33:13/XYZ456/DEF789:user/release-keys",
+    "imei_tac": "35894530"
+  },
+  {
+    "phone_name": "Galaxy J8 (2022 Edition)",
+    "model": "J810F",
+    "codename": "j8",
+    "fingerprint": "samsung/j8/j8:13/XYZ654/DEF321:user/release-keys",
+    "imei_tac": "35905640"
+  },
+  {
+    "phone_name": "Galaxy S22 Ultra",
+    "model": "S908B",
+    "codename": "o1u",
+    "fingerprint": "samsung/o1u/o1u:12/XYZ987/XYZ654:user/release-keys",
+    "imei_tac": "36016750"
+  },
+  {
+    "phone_name": "Galaxy S22+",
+    "model": "S916B",
+    "codename": "o1p",
+    "fingerprint": "samsung/o1p/o1p:12/XYZ321/XYZ654:user/release-keys",
+    "imei_tac": "36127860"
+  },
+  {
+    "phone_name": "Galaxy S22",
+    "model": "S901B",
+    "codename": "o1",
+    "fingerprint": "samsung/o1/o1:12/XYZ654/XYZ321:user/release-keys",
+    "imei_tac": "36238970"
+  },
+  {
+    "phone_name": "Galaxy A54",
+    "model": "A546B",
+    "codename": "b5y",
+    "fingerprint": "samsung/b5y/b5y:13/XYZ123/ABC456:user/release-keys",
+    "imei_tac": "35123410"
+  },
+  {
+    "phone_name": "Galaxy A34",
+    "model": "A346B",
+    "codename": "c4s",
+    "fingerprint": "samsung/c4s/c4s:13/XYZ789/DEF123:user/release-keys",
+    "imei_tac": "35234520"
+  },
+  {
+    "phone_name": "Galaxy J6 (2023 Edition)",
+    "model": "J600G",
+    "codename": "j6",
+    "fingerprint": "samsung/j6/j6:13/XYZ456/DEF789:user/release-keys",
+    "imei_tac": "35345630"
+  },
+  {
+    "phone_name": "Galaxy S23 Ultra",
+    "model": "S918B",
+    "codename": "o1u",
+    "fingerprint": "samsung/o1u/o1u:13/XYZ987/XYZ654:user/release-keys",
+    "imei_tac": "35456740"
+  },
+  {
+    "phone_name": "Galaxy S23+",
+    "model": "S916B",
+    "codename": "o1p",
+    "fingerprint": "samsung/o1p/o1p:13/XYZ321/XYZ654:user/release-keys",
+    "imei_tac": "35567850"
+  },
+  {
+    "phone_name": "Galaxy S23",
+    "model": "S911B",
+    "codename": "o1",
+    "fingerprint": "samsung/o1/o1:13/XYZ654/XYZ321:user/release-keys",
+    "imei_tac": "35678960"
+  },
+  {
     "phone_name": "Galaxy Note 8",
     "model": "N950F",
     "codename": "greatlte",
