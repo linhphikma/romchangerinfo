@@ -3,357 +3,357 @@
     "phone_name": "Galaxy A73 5G",
     "model": "A736B",
     "codename": "a73",
-    "fingerprint": "samsung/a73/a73:13/XYZ123/ABC456:user/release-keys",
+    "fingerprint": "samsung/a73/a73:13/TP1A.220624.014/A736BXXU4BVC7:user/release-keys",
     "imei_tac": "35674310"
   },
   {
     "phone_name": "Galaxy A53 5G",
     "model": "A536B",
-    "codename": "a53",
-    "fingerprint": "samsung/a53/a53:13/XYZ789/DEF123:user/release-keys",
+    "codename": "essi",
+    "fingerprint": "samsung/a53xnaxx/essi:13/TP1A.220624.014/A536BXXS4BWA2:user/release-keys",
     "imei_tac": "35783420"
   },
   {
     "phone_name": "Galaxy A33 5G",
     "model": "A336B",
     "codename": "a33",
-    "fingerprint": "samsung/a33/a33:13/XYZ456/DEF789:user/release-keys",
+    "fingerprint": "samsung/a33/a33:13/TP1A.220624.014/A336BXXU4BVC7:user/release-keys",
     "imei_tac": "35894530"
   },
   {
     "phone_name": "Galaxy J8 (2022 Edition)",
     "model": "J810F",
     "codename": "j8",
-    "fingerprint": "samsung/j8/j8:13/XYZ654/DEF321:user/release-keys",
+    "fingerprint": "samsung/j8/j8:13/TP1A.220624.014/J810FXXU4BVC7:user/release-keys",
     "imei_tac": "35905640"
   },
   {
     "phone_name": "Galaxy S22 Ultra",
     "model": "S908B",
     "codename": "o1u",
-    "fingerprint": "samsung/o1u/o1u:12/XYZ987/XYZ654:user/release-keys",
+    "fingerprint": "samsung/o1u/o1u:12/TP1A.220624.014/S908BXXU4BVC7:user/release-keys",
     "imei_tac": "36016750"
   },
   {
     "phone_name": "Galaxy S22+",
     "model": "S916B",
     "codename": "o1p",
-    "fingerprint": "samsung/o1p/o1p:12/XYZ321/XYZ654:user/release-keys",
+    "fingerprint": "samsung/o1pxx/o1p:12/TP1A.220624.014/S916BXXU4BVC7:user/release-keys",
     "imei_tac": "36127860"
   },
   {
     "phone_name": "Galaxy S22",
     "model": "S901B",
     "codename": "o1",
-    "fingerprint": "samsung/o1/o1:12/XYZ654/XYZ321:user/release-keys",
+    "fingerprint": "samsung/o1xx/o1:12/TP1A.220624.014/S901BXXU4BVC7:user/release-keys",
     "imei_tac": "36238970"
   },
   {
     "phone_name": "Galaxy A54",
     "model": "A546B",
     "codename": "b5y",
-    "fingerprint": "samsung/b5y/b5y:13/XYZ123/ABC456:user/release-keys",
+    "fingerprint": "samsung/b5yxx/b5y:13/TP1A.220624.014/A546BXXU4BVC7:user/release-keys",
     "imei_tac": "35123410"
   },
   {
     "phone_name": "Galaxy A34",
     "model": "A346B",
     "codename": "c4s",
-    "fingerprint": "samsung/c4s/c4s:13/XYZ789/DEF123:user/release-keys",
+    "fingerprint": "samsung/c4sxx/c4s:13/TP1A.220624.014/A346BXXU4BVC7:user/release-keys",
     "imei_tac": "35234520"
   },
   {
     "phone_name": "Galaxy J6 (2023 Edition)",
     "model": "J600G",
     "codename": "j6",
-    "fingerprint": "samsung/j6/j6:13/XYZ456/DEF789:user/release-keys",
+    "fingerprint": "samsung/j6xx/j6:13/TP1A.220624.014/J600GXXU4BVC7:user/release-keys",
     "imei_tac": "35345630"
   },
   {
     "phone_name": "Galaxy S23 Ultra",
     "model": "S918B",
     "codename": "o1u",
-    "fingerprint": "samsung/o1u/o1u:13/XYZ987/XYZ654:user/release-keys",
+    "fingerprint": "samsung/o1uxx/o1u:13/TP1A.220624.014/S918BXXU4BVC7:user/release-keys",
     "imei_tac": "35456740"
   },
   {
     "phone_name": "Galaxy S23+",
     "model": "S916B",
     "codename": "o1p",
-    "fingerprint": "samsung/o1p/o1p:13/XYZ321/XYZ654:user/release-keys",
+    "fingerprint": "samsung/o1pxx/o1p:13/TP1A.220624.014/S916BXXU4BVC7:user/release-keys",
     "imei_tac": "35567850"
   },
   {
     "phone_name": "Galaxy S23",
     "model": "S911B",
     "codename": "o1",
-    "fingerprint": "samsung/o1/o1:13/XYZ654/XYZ321:user/release-keys",
+    "fingerprint": "samsung/o1xx/o1:13/TP1A.220624.014/S911BXXU4BVC7:user/release-keys",
     "imei_tac": "35678960"
   },
   {
     "phone_name": "Galaxy Note 8",
     "model": "N950F",
     "codename": "greatlte",
-    "fingerprint": "samsung/greatlte/greatlte:8.0.0/OPD1.170818.031/N950FXXU1AQH3:user/release-keys",
+    "fingerprint": "samsung/greatltexx/greatlte:8.0.0/OPD1.170818.031/N950FXXU1AQH3:user/release-keys",
     "imei_tac": "35737608"
   },
   {
     "phone_name": "Galaxy A3 (2017)",
     "model": "A320F",
     "codename": "a3y",
-    "fingerprint": "samsung/a3y/a3y:8.0.0/OPD1.170818.031/A320FXXU2BQF1:user/release-keys",
+    "fingerprint": "samsung/a3yxx/a3y:8.0.0/OPD1.170818.031/A320FXXU2BQF1:user/release-keys",
     "imei_tac": "35854008"
   },
   {
     "phone_name": "Galaxy A5 (2017)",
     "model": "A520F",
     "codename": "a5y",
-    "fingerprint": "samsung/a5y/a5y:9/PPR1.180610.011/A510FXXU5CSH1:user/release-keys",
+    "fingerprint": "samsung/a5yxx/a5y:9/PPR1.180610.011/A510FXXU5CSH1:user/release-keys",
     "imei_tac": "35764808"
   },
   {
     "phone_name": "Galaxy A7 (2017)",
     "model": "A720F",
     "codename": "a7y",
-    "fingerprint": "samsung/a7y/a7y:9/PPR1.180610.011/A720FXXU5CSH1:user/release-keys",
+    "fingerprint": "samsung/a7yxx/a7y:9/PPR1.180610.011/A720FXXU5CSH1:user/release-keys",
     "imei_tac": "35537508"
   },
   {
     "phone_name": "Galaxy J3 (2017)",
     "model": "J330F",
     "codename": "j3y",
-    "fingerprint": "samsung/j3y/j3y:8.0.0/OPD1.170818.031/J330FXXU3BRH4:user/release-keys",
+    "fingerprint": "samsung/j3yxx/j3y:8.0.0/OPD1.170818.031/J330FXXU3BRH4:user/release-keys",
     "imei_tac": "35854708"
   },
   {
     "phone_name": "Galaxy J5 (2017)",
     "model": "J530F",
     "codename": "j5y",
-    "fingerprint": "samsung/j5y/j5y:8.1.0/OPD1.170818.031/J530FXXU2BRI2:user/release-keys",
+    "fingerprint": "samsung/j5yxx/j5y:8.1.0/OPD1.170818.031/J530FXXU2BRI2:user/release-keys",
     "imei_tac": "35877108"
   },
   {
     "phone_name": "Galaxy J7 (2017)",
     "model": "J730F",
     "codename": "j7y",
-    "fingerprint": "samsung/j7y/j7y:9/PPR1.180610.011/J730FXXU3CSH2:user/release-keys",
+    "fingerprint": "samsung/j7yxx/j7y:9/PPR1.180610.011/J730FXXU3CSH2:user/release-keys",
     "imei_tac": "35763108"
   },
   {
     "phone_name": "Galaxy S9",
     "model": "G960F",
     "codename": "starlte",
-    "fingerprint": "samsung/starlte/starlte:8.0.0/R16NW/G960FXXU1ARD1:user/release-keys",
+    "fingerprint": "samsung/starltexx/starlte:8.0.0/R16NW/G960FXXU1ARD1:user/release-keys",
     "imei_tac": "35313609"
   },
   {
     "phone_name": "Galaxy S9+",
     "model": "G965F",
     "codename": "star2lte",
-    "fingerprint": "samsung/star2lte/star2lte:9/PPR1.180610.011/G965FXXU1CSA7:user/release-keys",
+    "fingerprint": "samsung/star2ltexx/star2lte:9/PPR1.180610.011/G965FXXU1CSA7:user/release-keys",
     "imei_tac": "35280809"
   },
   {
     "phone_name": "Galaxy Note 9",
     "model": "N960F",
     "codename": "crownlte",
-    "fingerprint": "samsung/crownlte/crownlte:9/PPR1.180610.011/N960FXXU2CSA1:user/release-keys",
+    "fingerprint": "samsung/crownltexx/crownlte:9/PPR1.180610.011/N960FXXU2CSA1:user/release-keys",
     "imei_tac": "35280709"
   },
   {
     "phone_name": "Galaxy A8 (2018)",
     "model": "A530F",
     "codename": "jackpotlte",
-    "fingerprint": "samsung/jackpotlte/jackpotlte:9/PPR1.180610.011/A530FXXU4BSF2:user/release-keys",
+    "fingerprint": "samsung/jackpotltexx/jackpotlte:9/PPR1.180610.011/A530FXXU4BSF2:user/release-keys",
     "imei_tac": "35772209"
   },
   {
     "phone_name": "Galaxy A8+ (2018)",
     "model": "A730F",
     "codename": "jackpot2lte",
-    "fingerprint": "samsung/jackpot2lte/jackpot2lte:9/PPR1.180610.011/A730FXXU4BSF2:user/release-keys",
+    "fingerprint": "samsung/jackpot2ltexx/jackpot2lte:9/PPR1.180610.011/A730FXXU4BSF2:user/release-keys",
     "imei_tac": "35781309"
   },
   {
     "phone_name": "Galaxy J4 (2018)",
     "model": "J400F",
     "codename": "j4lte",
-    "fingerprint": "samsung/j4lte/j4lte:8.0.0/R16NW/J400FXXU2ARF3:user/release-keys",
+    "fingerprint": "samsung/j4ltexx/j4lte:8.0.0/R16NW/J400FXXU2ARF3:user/release-keys",
     "imei_tac": "35477809"
   },
   {
     "phone_name": "Galaxy J6 (2018)",
     "model": "J600F",
     "codename": "j6lte",
-    "fingerprint": "samsung/j6lte/j6lte:8.0.0/R16NW/J600FXXU2ARG2:user/release-keys",
+    "fingerprint": "samsung/j6ltexx/j6lte:8.0.0/R16NW/J600FXXU2ARG2:user/release-keys",
     "imei_tac": "35348209"
   },
   {
     "phone_name": "Galaxy J8 (2018)",
     "model": "J810F",
     "codename": "j8lte",
-    "fingerprint": "samsung/j8lte/j8lte:8.0.0/R16NW/J810FXXU2ARH3:user/release-keys",
+    "fingerprint": "samsung/j8ltexx/j8lte:8.0.0/R16NW/J810FXXU2ARH3:user/release-keys",
     "imei_tac": "35712309"
   },
   {
     "phone_name": "Galaxy S10",
     "model": "G973F",
     "codename": "beyond0lte",
-    "fingerprint": "samsung/beyond0lte/beyond0lte:9/PPR1.180610.011/G973FXXU2CSD1:user/release-keys",
+    "fingerprint": "samsung/beyond0ltexx/beyond0lte:9/PPR1.180610.011/G973FXXU2CSD1:user/release-keys",
     "imei_tac": "35247310"
   },
   {
     "phone_name": "Galaxy S10+",
     "model": "G975F",
     "codename": "beyond1lte",
-    "fingerprint": "samsung/beyond1lte/beyond1lte:9/PPR1.180610.011/G975FXXU2CSD1:user/release-keys",
+    "fingerprint": "samsung/beyond1ltexx/beyond1lte:9/PPR1.180610.011/G975FXXU2CSD1:user/release-keys",
     "imei_tac": "35243010"
   },
   {
     "phone_name": "Galaxy Note 10",
     "model": "N970F",
     "codename": "d1",
-    "fingerprint": "samsung/d1/d1:9/PPR1.180610.011/N970FXXU1CSJ1:user/release-keys",
+    "fingerprint": "samsung/d1xx/d1:9/PPR1.180610.011/N970FXXU1CSJ1:user/release-keys",
     "imei_tac": "35314010"
   },
   {
     "phone_name": "Galaxy Note 10+",
     "model": "N975F",
     "codename": "d2",
-    "fingerprint": "samsung/d2/d2:9/PPR1.180610.011/N975FXXU1CSJ1:user/release-keys",
+    "fingerprint": "samsung/d2xx/d2:9/PPR1.180610.011/N975FXXU1CSJ1:user/release-keys",
     "imei_tac": "35278910"
   },
   {
     "phone_name": "Galaxy Z Fold 2",
     "model": "F916B",
     "codename": "zfold2",
-    "fingerprint": "samsung/zfold2/zfold2:11/RP1A.200720.012/F916BXXU1DUE3:user/release-keys",
+    "fingerprint": "samsung/zfold2xx/zfold2:11/RP1A.200720.012/F916BXXU1DUE3:user/release-keys",
     "imei_tac": "35284010"
   },
   {
     "phone_name": "Galaxy Z Flip",
     "model": "F700F",
     "codename": "zflip",
-    "fingerprint": "samsung/zflip/zflip:10/QP1A.190711.020/F700FXXU1ATB9:user/release-keys",
+    "fingerprint": "samsung/zflipxx/zflip:10/QP1A.190711.020/F700FXXU1ATB9:user/release-keys",
     "imei_tac": "35477310"
   },
   {
     "phone_name": "Galaxy A21",
     "model": "A215U1",
     "codename": "a21",
-    "fingerprint": "samsung/a21/a21:10/QP1A.190711.020/A215U1UES5BTA3:user/release-keys",
+    "fingerprint": "samsung/a21xx/a21:10/QP1A.190711.020/A215U1UES5BTA3:user/release-keys",
     "imei_tac": "35262011"
   },
   {
     "phone_name": "Galaxy A31",
     "model": "A315F",
     "codename": "a31",
-    "fingerprint": "samsung/a31/a31:10/QP1A.190711.020/A315FXXU1BTA1:user/release-keys",
+    "fingerprint": "samsung/a31xx/a31:10/QP1A.190711.020/A315FXXU1BTA1:user/release-keys",
     "imei_tac": "35533411"
   },
   {
     "phone_name": "Galaxy A41",
     "model": "A415F",
     "codename": "a41",
-    "fingerprint": "samsung/a41/a41:10/QP1A.190711.020/A415FXXU1BTA3:user/release-keys",
+    "fingerprint": "samsung/a41xx/a41:10/QP1A.190711.020/A415FXXU1BTA3:user/release-keys",
     "imei_tac": "35482311"
   },
   {
     "phone_name": "Galaxy A51",
     "model": "A515F",
     "codename": "a51",
-    "fingerprint": "samsung/a51/a51:10/QP1A.190711.020/A515FXXU1BTA3:user/release-keys",
+    "fingerprint": "samsung/a51xx/a51:10/QP1A.190711.020/A515FXXU1BTA3:user/release-keys",
     "imei_tac": "35262511"
   },
   {
     "phone_name": "Galaxy A71",
     "model": "A715F",
     "codename": "a71",
-    "fingerprint": "samsung/a71/a71:10/QP1A.190711.020/A715FXXU1BTA3:user/release-keys",
+    "fingerprint": "samsung/a71xx/a71:10/QP1A.190711.020/A715FXXU1BTA3:user/release-keys",
     "imei_tac": "35475211"
   },
   {
     "phone_name": "Galaxy J51",
     "model": "J511F",
     "codename": "j51",
-    "fingerprint": "samsung/j51/j51:10/QP1A.190711.020/J511FXXU1BTA3:user/release-keys",
+    "fingerprint": "samsung/j51xx/j51:10/QP1A.190711.020/J511FXXU1BTA3:user/release-keys",
     "imei_tac": "35498311"
   },
   {
     "phone_name": "Galaxy S21",
     "model": "G991B",
     "codename": "o1",
-    "fingerprint": "samsung/o1/o1:11/RP1A.200720.012/G991BXXU1AUB3:user/release-keys",
+    "fingerprint": "samsung/o1xx/o1:11/RP1A.200720.012/G991BXXU1AUB3:user/release-keys",
     "imei_tac": "35476212"
   },
   {
     "phone_name": "Galaxy S21+",
     "model": "G996B",
     "codename": "t2",
-    "fingerprint": "samsung/t2/t2:11/RP1A.200720.012/G996BXXU1AUB3:user/release-keys",
+    "fingerprint": "samsung/t2xx/t2:11/RP1A.200720.012/G996BXXU1AUB3:user/release-keys",
     "imei_tac": "35463212"
   },
   {
     "phone_name": "Galaxy S21 Ultra",
     "model": "G998B",
     "codename": "p3",
-    "fingerprint": "samsung/p3/p3:11/RP1A.200720.012/G998BXXU1AUB3:user/release-keys",
+    "fingerprint": "samsung/p3xx/p3:11/RP1A.200720.012/G998BXXU1AUB3:user/release-keys",
     "imei_tac": "35362012"
   },
   {
     "phone_name": "Galaxy Z Fold 3",
     "model": "F926B",
     "codename": "zfold3",
-    "fingerprint": "samsung/zfold3/zfold3:11/RP1A.200720.012/F926BXXU1AUB3:user/release-keys",
+    "fingerprint": "samsung/zfold3xx/zfold3:11/RP1A.200720.012/F926BXXU1AUB3:user/release-keys",
     "imei_tac": "35272613"
   },
   {
     "phone_name": "Galaxy Z Flip 3",
     "model": "F711B",
     "codename": "zflip3",
-    "fingerprint": "samsung/zflip3/zflip3:11/RP1A.200720.012/F711BXXU1AUB3:user/release-keys",
+    "fingerprint": "samsung/zflip3xx/zflip3:11/RP1A.200720.012/F711BXXU1AUB3:user/release-keys",
     "imei_tac": "35477213"
   },
   {
     "phone_name": "Galaxy A32",
     "model": "A325F",
     "codename": "a32",
-    "fingerprint": "samsung/a32/a32:11/RP1A.200720.012/A325FXXU1AUB3:user/release-keys",
+    "fingerprint": "samsung/a32xx/a32:11/RP1A.200720.012/A325FXXU1AUB3:user/release-keys",
     "imei_tac": "35273214"
   },
   {
     "phone_name": "Galaxy A52",
     "model": "A525F",
     "codename": "a52",
-    "fingerprint": "samsung/a52/a52:11/RP1A.200720.012/A525FXXU1AUB3:user/release-keys",
+    "fingerprint": "samsung/a52xx/a52:11/RP1A.200720.012/A525FXXU1AUB3:user/release-keys",
     "imei_tac": "35272714"
   },
   {
     "phone_name": "Galaxy A72",
     "model": "A725F",
     "codename": "a72",
-    "fingerprint": "samsung/a72/a72:11/RP1A.200720.012/A725FXXU1AUB3:user/release-keys",
+    "fingerprint": "samsung/a72xx/a72:11/RP1A.200720.012/A725FXXU1AUB3:user/release-keys",
     "imei_tac": "35482714"
   },
   {
     "phone_name": "Galaxy M32",
     "model": "M325F",
     "codename": "m32",
-    "fingerprint": "samsung/m32/m32:11/RP1A.200720.012/M325FXXU1AUB3:user/release-keys",
+    "fingerprint": "samsung/m32xx/m32:11/RP1A.200720.012/M325FXXU1AUB3:user/release-keys",
     "imei_tac": "35273814"
   },
   {
     "phone_name": "Galaxy M52",
     "model": "M525F",
     "codename": "m52",
-    "fingerprint": "samsung/m52/m52:11/RP1A.200720.012/M525FXXU1AUB3:user/release-keys",
+    "fingerprint": "samsung/m52xx/m52:11/RP1A.200720.012/M525FXXU1AUB3:user/release-keys",
     "imei_tac": "35273314"
   },
   {
     "phone_name": "Galaxy M72",
     "model": "M725F",
     "codename": "m72",
-    "fingerprint": "samsung/m72/m72:11/RP1A.200720.012/M725FXXU1AUB3:user/release-keys",
+    "fingerprint": "samsung/m72xx/m72:11/RP1A.200720.012/M725FXXU1AUB3:user/release-keys",
     "imei_tac": "35483014"
   }
 
