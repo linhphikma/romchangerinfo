@@ -1,31 +1,10 @@
 [
   {
-    "phone_name": "Galaxy A73 5G",
-    "model": "A736B",
-    "codename": "a73",
-    "fingerprint": "samsung/a73/a73:13/TP1A.220624.014/A736BXXU4BVC7:user/release-keys",
-    "imei_tac": "35674310"
-  },
-  {
     "phone_name": "Galaxy A53 5G",
     "model": "A536B",
     "codename": "essi",
     "fingerprint": "samsung/a53xnaxx/essi:13/TP1A.220624.014/A536BXXS4BWA2:user/release-keys",
     "imei_tac": "35783420"
-  },
-  {
-    "phone_name": "Galaxy A33 5G",
-    "model": "A336B",
-    "codename": "a33",
-    "fingerprint": "samsung/a33/a33:13/TP1A.220624.014/A336BXXU4BVC7:user/release-keys",
-    "imei_tac": "35894530"
-  },
-  {
-    "phone_name": "Galaxy J8 (2022 Edition)",
-    "model": "J810F",
-    "codename": "j8",
-    "fingerprint": "samsung/j8/j8:13/TP1A.220624.014/J810FXXU4BVC7:user/release-keys",
-    "imei_tac": "35905640"
   },
   {
     "phone_name": "Galaxy S22 Ultra",
