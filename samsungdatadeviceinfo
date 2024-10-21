@@ -1,1 +1,24 @@
 
+[
+  {
+    "phone_name": "Galaxy S8",
+    "model": "SM-G950F",
+    "codename": "dreamlte",
+    "fingerprint": "samsung/dreamltexx/dreamlte:9/PPR1.180610.011/G950FXXUCDVG4:user/release-keys",
+    "imei_tac": "356357080"
+  },
+  {
+    "phone_name": "Galaxy S8",
+    "model": "SM-G955F",
+    "codename": "dream2lte",
+    "fingerprint": "samsung/dream2ltexx/dream2lte:9/PPR1.180610.011/G955FXXUCDVG4:user/release-keys",
+    "imei_tac": "356357080"
+  }
+  {
+    "phone_name": "Galaxy Note8",
+    "model": "SM-N950F",
+    "codename": "greatlte",
+    "fingerprint": "samsung/greatltexx/greatlte:9/PPR1.180610.011/N950FXXSDDTJ1:user/release-keys",
+    "imei_tac": "356357080"
+  }
+]
