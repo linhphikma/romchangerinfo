@@ -8,17 +8,45 @@
     "imei_tac": "35635708"
   },
   {
-    "phone_name": "Galaxy S8",
+    "phone_name": "Galaxy S8+",
     "model": "SM-G955F",
     "codename": "dream2lte",
     "fingerprint": "samsung/dream2ltexx/dream2lte:9/PPR1.180610.011/G955FXXUCDVG4:user/release-keys",
-    "imei_tac": "35635708"
+    "imei_tac": "35672008"
   },
   {
     "phone_name": "Galaxy Note8",
     "model": "SM-N950F",
     "codename": "greatlte",
     "fingerprint": "samsung/greatltexx/greatlte:9/PPR1.180610.011/N950FXXSDDTJ1:user/release-keys",
-    "imei_tac": "35635708"
+    "imei_tac": "35553309"
+  },
+  {
+    "phone_name": "Galaxy S7",
+    "model": "SM-G930F",
+    "codename": "herolte",
+    "fingerprint": "samsung/heroltexx/herolte:8.0.0/R16NW/G930FXXU8EVG3:user/release-keys",
+    "imei_tac": "35550407"
+  },
+  {
+    "phone_name": "Galaxy S7 Edge",
+    "model": "SM-G935F",
+    "codename": "hero2lte",
+    "fingerprint": "samsung/hero2ltexx/hero2lte:8.0.0/R16NW/G935FXXU8EVG3:user/release-keys",
+    "imei_tac": "35564907"
+  },
+  {
+    "phone_name": "Galaxy S9+",
+    "model": "SM-G965F",
+    "codename": "star2lte",
+    "fingerprint": "samsung/star2ltexx/star2lte:10/QP1A.190711.020/G965FXXUHFVK1:user/release-keys",
+    "imei_tac": "35351109"
+  },
+  {
+    "phone_name": "Galaxy S9",
+    "model": "SM-G960F",
+    "codename": "star2lte",
+    "fingerprint": "samsung/starltexx/starlte:10/QP1A.190711.020/G960FXXUHFVK1:user/release-keys",
+    "imei_tac": "35352409"
   }
 ]
