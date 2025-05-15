@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1752491290,
+      "filename": "update-otatest.zip",
+      "id": "42186cb71f7dbe10ccec6cadb2baf7dc6b3dba30",
+      "romtype": "RELEASE",
+      "size": 125628,
+      "url": "https://github.com/linhphikma/romchangerinfo/raw/main/update-otatest.zip",
+      "version": "1.1"
+    }
+  ]
+}
