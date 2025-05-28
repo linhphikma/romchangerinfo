@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1647933199,
+      "datetime": 1748316753,
       "filename": "update.zip",
-      "id": "52186cb71f7dbe10ccec6cadb2baf7dc6b3dba30",
+      "id": "720f6b1ce2059f2d32385fc277186fff982cc8cd",
       "romtype": "RELEASE",
-      "size": 1323310944,
-      "url": "https://download856.mediafire.com/qlqwzdop6lsgfWbbsGEyMTzXEezNCNiBWXIyJOMSH_feBtmKnWaZR394fir3Uk5hauuB6fnryxbVkdIC5VmrBx0ZjnbLd3eTLenJlMr401-qJwV21gbdRcapnZQUiWdLmcfz5XC8KF6DNbw0iWmQsLIBjomInF0CxLFoX4ojftw/81g415we5fchvci/OkeRom_starlte-2.0-20250522-1617-OFFICIAL_OTA_UPDATE.zip",
+      "size": 57274611,
+      "url": "https://download1589.mediafire.com/qhyxwlfu78sgUCsKkOCPln7ovj_oKMaH1L6pplFVtzlt2h-l_1pOdAhKamIy3w9LvciGiQdxmUilAYWSCCA4gVsVAhQjdPykWWO4iW0VF-dhn12CTR882T0m9v-OKbATgNL3AVWXykIaVsYg4ei8RIgD1YwxO-2JVaieJN-NGEQ/v1io44hkj8tl5gw/star2lte_update.zip",
       "version": "2.0"
     }
   ]
