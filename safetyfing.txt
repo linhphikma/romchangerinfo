@@ -1,3 +1,3 @@
-safetyinfo=google/Google/mustang/mustang/Pixel 10 Pro XL/BP4A.251205.006/2025-12-05/32
+safetyinfo=google/Google/comet/comet_beta/Pixel 9 Pro Fold/BP41.250916.010.A1/2025-10-05/32
 
-safetyfing=google/mustang/mustang:16/BP4A.251205.006/14401865:user/release-keys
+safetyfing=google/comet_beta/comet:16/BP41.250916.010.A1/14281945:user/release-keys
