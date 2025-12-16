@@ -1,3 +1,3 @@
-safetyinfo=google/Google/frankel/frankel_beta/Pixel 10/BP41.250916.015.A1/2025-10-05/32
+safetyinfo=google/Google/frankel/frankel_beta/Pixel 10/BP41.250916.015.A1/2025-10-05/35
 
 safetyfing=google/frankel_beta/frankel:16/BP41.250916.015.A1/14394230:user/release-keys
