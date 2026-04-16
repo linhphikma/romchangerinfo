@@ -1,3 +1,3 @@
 safetyinfo=google/Google/bluejay/bluejay_beta/Pixel 6a/CP21.260306.017/2026-03-05/32/17
 
-safetyfing=google/bluejay_beta/bluejay:17/CP21.260306.017/15063635:user/release-keys
+safetyfing=google/bluejay_beta/bluejay:CinnamonBun/CP21.260306.017/15063635:user/release-keys
