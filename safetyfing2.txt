@@ -1,0 +1,3 @@
+safetyinfo=google/Google/shiba/shiba_beta/Pixel 8/CP21.260330.008/2026-04-05/32/17
+
+safetyfing=google/shiba_beta/shiba:17/CP21.260330.008/15199860:user/release-keys
